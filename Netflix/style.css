@@ -1,0 +1,94 @@
+h1{
+   color: tomato;
+    text-align: left ;
+   font-size: 100px;
+   font-weight: bold;
+}
+#header1{
+    background-image: url("background.jpg");
+    background-size: cover;
+    height: 30%;
+    
+}
+img{
+height: 100%;
+}
+#signin{
+    position: absolute;
+    right: 10px;
+  top: 10px;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+
+}
+div{
+    text-align: right;
+}
+h2{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+.start{
+    background-color: red;
+    color: white;
+    font-size: 25px;  
+}
+#email{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#gs{
+    text-align: center;
+   
+}
+#email{
+   background-color: black;
+    --brand-font: "Kanit",serif;
+    --brand-font-weight: 800;
+    --brand-font-alt: "Baloo 2",system-ui,sans-serif;
+    --brand-font-alt-weight: normal;
+    --brand-font-alt-weight-bold: 500;
+    --width: 800px;
+    height: 20px;
+    --gradient-angle: 35deg;
+    --modifier: calc(30ch - 100%);
+    box-sizing: border-box;
+    --outline-size: max(2px,0.08em);
+    --outline-style: solid;
+    border: 2px solid;
+    border-radius: 4px;
+    font: inherit;
+    padding: 0 .5em;
+    min-height: 35px;
+    grid-area: group;
+}
+#tv{
+    color: white;
+    text-align: center;
+}
+#child{
+    color: white;
+    text-align: center;
+}
+footer{
+    color: white;
+    text-decoration: underline;
+}
+#l{
+    text-align: right;
+    align-items: right;
+    color: white;
+}
+#r{
+    text-align: left;
+    align-items: left;
+    color: left; 
+}
